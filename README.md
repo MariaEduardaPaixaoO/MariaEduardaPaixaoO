@@ -15,7 +15,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -23,7 +23,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -31,7 +31,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -39,7 +39,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -48,7 +48,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="C"
     title="C" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
@@ -56,7 +56,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -64,7 +64,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -72,7 +72,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -80,7 +80,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -88,7 +88,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -97,7 +97,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Canva"
     title="Canva" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
 />
@@ -106,7 +106,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
@@ -115,7 +115,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Insomnia"
     title="Insomnia" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
 />
@@ -124,7 +124,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="MySQL"
     title="MySQL" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
@@ -133,7 +133,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="VsCode"
     title="VsCode" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
@@ -142,7 +142,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Intellij"
     title="Intellij" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
@@ -151,7 +151,7 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
     align="left" 
     alt="Figma"
     title="Figma" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
@@ -166,15 +166,15 @@ Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de S�
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="150" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=MariaEduardaPaixaoO&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaPaixaoO&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
