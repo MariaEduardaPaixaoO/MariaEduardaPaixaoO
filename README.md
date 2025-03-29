@@ -1,8 +1,14 @@
-# 👩🏽‍💻 Olá, me chamo Maria Eduarda Paixão de Souza!
+# 👩🏽‍💻 Olá, muito prazer! Eu me chamo Maria Eduarda Paixão de Souza.
 
 **Desenvolvedora FullStack.**
 
-Olá! Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec de Poá, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na UMC (Universidade de Mogi das Cruzes). Sou apaixonada por tecnologia e pretendo crescer cada vez mais na área da programação.
+Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de São Paulo. Sou técnica em Análise e Desenvolvimento de Sistemas pela Etec de Poá e atualmente curso Engenharia de Software na UMC(Universidade de Mogi das Cruzes).
+
+Sou apaixonada por tecnologia e sempre busco aprimorar minhas habilidades em programação e desenvolvimento de software. Meu objetivo é crescer na área e contribuir para soluções inovadoras.
+
+🚀 Vamos conectar? Estou aberta a novas oportunidades e trocas de conhecimento!
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-paix%C3%A3o-de-souza-272323359/)
 <a href = "mailto:mariaeduardapaixaodesouza71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
