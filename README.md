@@ -2,7 +2,7 @@
 
 **Desenvolvedora FullStack.**
 
-Me chamo Maria Eduarda Paixão de Souza, tenho 19 anos e sou natural de São Paulo. Sou técnica em Análise e Desenvolvimento de Sistemas pela Etec de Poá e atualmente curso Engenharia de Software na UMC(Universidade de Mogi das Cruzes).
+Me chamo Maria Eduarda Paixão de Souza, tenho 20 anos e sou natural de São Paulo. Sou técnica em Análise e Desenvolvimento de Sistemas pela Etec de Poá e atualmente curso Engenharia de Software na UMC(Universidade de Mogi das Cruzes).
 
 Sou apaixonada por tecnologia e sempre busco aprimorar minhas habilidades em programação e desenvolvimento de software. Meu objetivo é crescer na área e contribuir para soluções inovadoras.
 
